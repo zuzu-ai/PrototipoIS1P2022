@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WJ9cFgMFSvkD66XKFxfeL8YDVZtMe9Y77PEnf9rdFw0KJi/BSoHL1/7i8xvPh24azDAeh6x6Xkoc8bnSWyQBQA==",
+  "dgSpecHash": "6mhRxZZYpfy65QkMv88Yyk7BVJ9MHwd0S3AP8Pz3Z7T/U5eMV7DQzSAuIbHBGDtB1bu3nuoHzWlHeqtS61w87g==",
   "success": true,
   "projectFilePath": "C:\\Users\\ZUZU\\Desktop\\SIC\\CapaControlador\\CapaControlador.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ZUZU\\.nuget\\packages\\system.data.odbc\\6.0.2-mauipre.1.22054.8\\system.data.odbc.6.0.2-mauipre.1.22054.8.nupkg.sha512",
+    "C:\\Users\\ZUZU\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.2-mauipre.1.22054.8\\system.runtime.compilerservices.unsafe.6.0.2-mauipre.1.22054.8.nupkg.sha512",
+    "C:\\Users\\ZUZU\\.nuget\\packages\\system.text.encoding.codepages\\6.0.2-mauipre.1.22054.8\\system.text.encoding.codepages.6.0.2-mauipre.1.22054.8.nupkg.sha512"
+  ],
   "logs": []
 }
