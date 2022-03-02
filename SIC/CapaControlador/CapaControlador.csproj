@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Data.Odbc" Version="6.0.2-mauipre.1.22054.8" />
+  </ItemGroup>
+
 </Project>
